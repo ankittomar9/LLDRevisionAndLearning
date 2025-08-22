@@ -25,6 +25,13 @@ class Student{
     public static void main(String[] args) {
         Student student = new Student("John Doe", 20);
         System.out.println(student);
+
+        Student student2 = new Student("Jane Smith", 22);
+        System.out.println(student2);
+
+
+
+
     }
 
 }
